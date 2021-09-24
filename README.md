@@ -6,3 +6,4 @@
 -->
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+-🖥️ Full-stack software developer (to some extent)
