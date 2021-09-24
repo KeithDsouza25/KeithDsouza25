@@ -8,4 +8,6 @@
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥️ Full-stack software developer (to some extent).
 - 🎓 Bachelor of Engineering in Information Technology 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Mumbai, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸021.
+- ☁️ I like to record and share knowldege
+- 😎 Not a nerd but love software development
 - 
