@@ -7,8 +7,6 @@
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-### Baisically I'm a...
-
 - 🖥️ Full-stack software developer (to some extent), who has a... 
 - 🎓 Bachelor of Engineering in Information Technology 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Mumbai, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸021. Also....
 - ☁️ I like to record and share knowldege, 
@@ -27,5 +25,5 @@
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotic Process Automation
 
-<!--
--->
+
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
