@@ -19,7 +19,7 @@
 - 🎞️  Love video and audio editing
 - 🎮  Can Game all day
 - 🌱 I’m currently learning Blue Prism
-<img width="490" height="490" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/coder.gif" align=right>
+<img width="380" height="320" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/coder.gif" align=right>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
