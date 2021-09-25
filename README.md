@@ -21,3 +21,4 @@
 - 🎞️  Love video and audio editing
 - 🎮  Can Game all day
 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
