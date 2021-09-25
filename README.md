@@ -19,15 +19,14 @@
 - 🎞️  Love video and audio editing
 - 🎮  Can Game all day
 - 🌱 I’m currently learning Blue Prism
-<img width="490" height="270" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/coder.gif" align=right>
-
+<img width="490" height="490" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/coder.gif" align=right>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
   - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
-- 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
+  - 🤖 Robotic Process Automation
+  - Software dev and testing
+- 📝 I read many technical blogs and articles
 - 🤔 I’m looking for help with Devops
 - 📙 Check out my [Resume](https://www.linkedin.com/in/keithdsouza25/)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
