@@ -19,5 +19,5 @@
 - ⚙️  Try to use tech to automate whatever I can
 - 🎞️  Love video and audio editing
 - 🎮  Can Game all day
-<img width="490" height="270" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/coder.gif" align=right>
+<img width="390" height="320" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/coder.gif" align=right>
 
