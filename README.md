@@ -31,3 +31,5 @@
 - 📝 I write technical blogs and articles
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 🤔 I’m looking for help with Devops
+- 📙 Check out my [Resume](https://www.linkedin.com/in/keithdsouza25/)
+- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
