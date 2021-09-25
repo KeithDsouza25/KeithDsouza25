@@ -25,9 +25,8 @@
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
   - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
-- 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
+  - 🤖 Robotic Process Automation
+- 📝 I read many technical blogs and articles
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, ML, CV, Raspi
 - 📙 Check out my [Resume](https://www.linkedin.com/in/keithdsouza25/)
