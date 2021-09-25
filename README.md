@@ -16,12 +16,10 @@
 
 ### A few fun facts...
 
-- ⚙️  Try to use tech to automate whatever I can
 - 🎞️  Love video and audio editing
 - 🎮  Can Game all day
-- 🔭 I’m currently working on NLP Project
-- 🌱 I’m currently learning Java ☕
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+- 🌱 I’m currently learning Blue Prism <img src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/prism.jpg" width="30">
+<img width="490" height="270" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/coder.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
