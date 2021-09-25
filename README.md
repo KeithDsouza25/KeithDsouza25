@@ -26,4 +26,5 @@
   - 🖼 Computer Vision
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotic Process Automation
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+
+-->
