@@ -17,8 +17,17 @@
 ### A few fun facts...
 
 - ⚙️  Try to use tech to automate whatever I can
-<img width="390" height="320" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/coder.gif" align=right>
 - 🎞️  Love video and audio editing
 - 🎮  Can Game all day
+- 🔭 I’m currently working on NLP Project
+- 🌱 I’m currently learning Java ☕
+<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Data Science
+  - 🖼 Computer Vision
+  - 🛠 DIY Raspberry Pi Projects
+  - 🤖 Robotics
+- 📝 I write technical blogs and articles
+- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
+- 🤔 I’m looking for help with Devops
