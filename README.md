@@ -12,7 +12,9 @@
 - ☁️ I like to record and share knowldege, 
 - 😎 I'm not a nerd but love software development.
 
-### A few fun facts...
+
+
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
 - 🎞️  Love video and audio editing
 - 🎮  Can Game all day
@@ -25,5 +27,3 @@
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotic Process Automation
 
-
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
