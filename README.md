@@ -22,10 +22,10 @@
 <img width="380" height="320" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/coder.gif" align=right>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  I enjoy working on
   - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
+  - 🖼  Computer Vision
+  - 🛠  DIY Raspberry Pi Projects
   - 🤖 Robotic Process Automation
-  - Software dev and testing
+  - 🖥️ Software dev and testing
 - 📝 I read many technical blogs and articles
 - 🤔 I’m looking for help with Devops
 - 📙 Check out my [Resume](https://www.linkedin.com/in/keithdsouza25/)
