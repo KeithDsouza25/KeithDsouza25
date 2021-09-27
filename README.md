@@ -24,6 +24,6 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
+  - 🛠 Software Development and Testing
   - 🤖 Robotic Process Automation
 
