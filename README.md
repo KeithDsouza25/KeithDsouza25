@@ -30,4 +30,8 @@
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
-I am available mostly on LinkedIn and Instagram, but you can connect with me on all the platforms given below, I will try to get in touch everywhere.
+I am available mostly on LinkedIn and Instagram, but you can connect with me on all the platforms given below, I will try to get in touch everywhere possible. (Even after I get famous🤣🤣🤣)
+
+<a href="https://mail.google.com/ ">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+</a>
