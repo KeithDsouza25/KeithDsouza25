@@ -36,14 +36,4 @@ I am available mostly on LinkedIn and Instagram, but you can connect with me on 
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 
-<a href="https://mail.google.com/ ">
-  <img align="left" alt="Facebook" width="22px" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/in.png" />
-</a>
 
-<a href="https://mail.google.com/ ">
-  <img align="left" alt="LinkedIn" width="22px" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/fb.pmg" />
-</a>
-
-<a href="https://mail.google.com/ ">
-  <img align="left" alt="Instagram" width="22px" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/is.png" />
-</a>
