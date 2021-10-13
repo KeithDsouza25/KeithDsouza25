@@ -37,3 +37,7 @@ I am available mostly on LinkedIn and Instagram, but you can connect with me on 
 </a>
 
 
+<a href="https://mail.google.com/ ">
+  <img align="left"  width="22px" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/in.png" />
+</a>
+
