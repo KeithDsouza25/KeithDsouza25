@@ -30,7 +30,7 @@
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
-tbd
+coming soon ...
 <a href="https://mail.google.com/ ">
   <img align="left"  width="22px" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/gm.png" />
 </a>
