@@ -39,6 +39,4 @@ coming soon ...
 <a href="https://mail.google.com/ ">
   <img align="left"  width="22px" src="https://github.com/KeithDsouza25/KeithDsouza25//raw/main/assets/in.png" />
 </a>
-ps... im learning react will have a project up soon 
-very soon... this is taking too long
-help
+https://keithdsouzaportfolio.netlify.app
